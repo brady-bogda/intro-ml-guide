@@ -1,4 +1,5 @@
 # intro-ml-guide
+**Dec 2021**
 
 This guide will walk you through building a ML model with python and the scikit-learn library. Discusses common procedures for preparing and training a model. Guide is a jupyter notebook
 
