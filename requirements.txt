@@ -1,0 +1,5 @@
+pandas
+numpy
+sklearn
+#for running in jupyter notebook
+notebook
